@@ -54,6 +54,11 @@
 
 #### 노션주소 https://www.notion.so/how-to-algorithm_study-hryu-dc135bded1b44b098c7302cd63a3295e
 
+<details>
+<summary>hryu_algorithm_study_with_python 로 문제 해결</summary>
+<div markdown="1">
+
+
 ## 0310
 
 - 정렬
@@ -76,6 +81,12 @@
   - part2
     - 안테나
     - 실패율  
+
+    
+
+</div>
+</details>    
+
 
 ## part 2&3
 
