@@ -54,6 +54,21 @@
 
 #### 노션주소 https://www.notion.so/how-to-algorithm_study-hryu-dc135bded1b44b098c7302cd63a3295e
 
+##### 이코테 2회차 마무리하면 두개 먼저 해결
+
+1. [삼성 A형 기출 문제](https://www.acmicpc.net/workbook/view/2771)
+
+2. [프로그래머스](https://programmers.co.kr/learn/challenges)
+
+1번 마무리 하면 아래 두개 + 프로그래머스
+
+3. [solved.ac](https://solved.ac/problems/level/11)
+
+4. [삼성 sw 역량 테스트 기출 문제](https://www.acmicpc.net/workbook/view/1152)
+
+
+
+
 <details>
 <summary>hryu_algorithm_study_with_python 로 문제 해결</summary>
 <div markdown="1">
@@ -90,7 +105,12 @@
     - 예제
     - 1로만들기
     
+## 0315
 
+- dp
+  - part3
+    - 정수삼각형
+    - 퇴사
 </div>
 </details>    
 
