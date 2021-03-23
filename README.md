@@ -5,9 +5,8 @@
 - 계획대로 해보자
 
 <details>
-<summary>hryu_algorithm_study c++로 문제 해결</summary>
+<summary>hryu_algorithm_study_with_python로 문제 해결</summary>
 <div markdown="1">
-
 
 #### 노션주소 https://www.notion.so/how-to-algorithm_study-hryu-dc135bded1b44b098c7302cd63a3295e
 
@@ -26,10 +25,10 @@
 
 5. [프로그래머스](https://programmers.co.kr/learn/challenges)
 
-
 <details>
-<summary>hryu_algorithm_study_with_python 로 문제 해결</summary>
+<summary>daily solution commit</summary>
 <div markdown="1">
+
 
 
 ## 0310
@@ -125,10 +124,13 @@
     - part3
         - 연구소
     
-## 0322
+## 0323
 - dfs_bfs
     - part3
         - 연산자끼워넣기
+- 코드업
+    - 파이썬기초100
+      - 6000 ~ 6008 입출력 해결
 
 
 </div>
@@ -144,3 +146,11 @@
 |             | 이진탐색                                                     | DP                                             | 최단경로                                              | DP기타 그래프 이론                          |
 | 리뷰필      | 부품찾기,떡볶이만들기                                        | 1로만들기, 정수삼각형, 금광                    |                                                       |                                             |
 | 어려운 문제 |                                                              | 퇴사, 병사배치하기                             |                                                       |                                             |
+
+## 코드업
+
+|        | 파이썬100기초 |
+| ------ | ------------- |
+| 리뷰필 |               |
+| 어려운 |               |
+
