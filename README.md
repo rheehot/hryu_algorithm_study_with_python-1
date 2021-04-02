@@ -2,7 +2,7 @@
 
 
 #### hryu_algorithm_study c++로 문제 해결 -> 이제 파이썬으로 해결
-- 계획대로 해보자
+- 계획은 무슨 되는대로 해보자
 
 <details>
 <summary>hryu_algorithm_study_with_python로 문제 해결</summary>
@@ -19,7 +19,7 @@
 
 2. [solved.ac](https://solved.ac/problems/level/11)
 
-3. [삼성 sw 역량 테스트 기출 문제](https://www.acmicpc.net/workbook/view/1152)
+3. [삼성 sw 역량 테스트 기출 문제](https://www.acmicpc.net/workbook/view/1152) 
 
 4. [프로그래머스](https://programmers.co.kr/learn/challenges)
 
