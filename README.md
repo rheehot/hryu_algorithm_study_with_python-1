@@ -13,17 +13,15 @@
 ##### 이코테 2회차 마무리하면 두개 먼저 해결
 0. [코드업](https://www.codeup.kr/)
 
-1. [삼성 A형 기출 문제](https://www.acmicpc.net/workbook/view/2771)
+1. [프로그래머스](https://programmers.co.kr/learn/challenges)
 
-2. [프로그래머스](https://programmers.co.kr/learn/challenges)
+---
 
-1번 마무리 하면 아래 두개 + 프로그래머스
+2. [solved.ac](https://solved.ac/problems/level/11)
 
-3. [solved.ac](https://solved.ac/problems/level/11)
+3. [삼성 sw 역량 테스트 기출 문제](https://www.acmicpc.net/workbook/view/1152)
 
-4. [삼성 sw 역량 테스트 기출 문제](https://www.acmicpc.net/workbook/view/1152)
-
-5. [프로그래머스](https://programmers.co.kr/learn/challenges)
+4. [프로그래머스](https://programmers.co.kr/learn/challenges)
 
 <details>
 <summary>daily solution commit</summary>
@@ -267,3 +265,7 @@
 
   
 
+<<<<<<< HEAD
+=======
+  
+>>>>>>> ebcc541e33104fa0698d44a1034d5bbe6fe4ad57
