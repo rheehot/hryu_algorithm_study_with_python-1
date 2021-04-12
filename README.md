@@ -7,8 +7,10 @@
 <details>
 <summary>hryu_algorithm_study_with_python로 문제 해결</summary>
 <div markdown="1">
+
 ##### 이코테 2회차 마무리하면 두개 먼저 해결
 0. [코드업](https://www.codeup.kr/)
+
 
 1. [프로그래머스](https://programmers.co.kr/learn/challenges)
 
