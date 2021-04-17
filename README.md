@@ -1,7 +1,37 @@
 # hryu_algorithm_study_with_python
 
-
 #### hryu_algorithm_study c++로 문제 해결 -> 이제 파이썬으로 해결
+
+
+
+<details>
+<summary>문제 코드와 해설</summary>
+<div markdown="1">
+
+
+
+<details>
+<summary>Backjoon Online Judge</summary>
+<div markdown="1">
+
+dff
+
+<details>
+<summary>Programmers</summary>
+<div markdown="1">
+
+dfg
+
+<details>
+<summary>ETC</summary>
+<div markdown="1">
+
+GG
+
+
+
+
+
 <details>
 <summary>hryu_algorithm_study_with_python로 문제 해결</summary>
 <div markdown="1">
@@ -377,30 +407,3 @@
 
 </div>
 </details>    
-
-
-
-<details>
-<summary>문제 코드와 해설</summary>
-<div markdown="1">
-
-
-
-<details>
-<summary>Backjoon Online Judge</summary>
-<div markdown="1">
-
-dff
-
-<details>
-<summary>Programmers</summary>
-<div markdown="1">
-
-dfg
-
-<details>
-<summary>ETC</summary>
-<div markdown="1">
-
-GG
-
