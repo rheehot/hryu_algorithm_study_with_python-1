@@ -6,19 +6,16 @@
 <summary>hryu_algorithm_study_with_python로 문제 해결</summary>
 <div markdown="1">
 
-##### 이코테 2회차 마무리하면 두개 먼저 해결
-0. [코드업](https://www.codeup.kr/)
-
-
-1. [프로그래머스](https://programmers.co.kr/learn/challenges)
 
 ---
 
-2. [solved.ac](https://solved.ac/problems/level/11)
-3. [삼성 sw 역량 테스트 기출 문제](https://www.acmicpc.net/workbook/view/1152) 
-4. [프로그래머스](https://programmers.co.kr/learn/challenges?tab=all_challenges)
+1. [solved.ac](https://solved.ac/problems/level/11)
 
-[dfsbfs2](https://covenant.tistory.com/147)
+2. [삼성 sw 역량 테스트 기출 문제](https://www.acmicpc.net/workbook/view/1152) 
+
+3. [프로그래머스](https://programmers.co.kr/learn/challenges?tab=all_challenges)
+
+
 
 <details>
 <summary>daily solution commit</summary>
@@ -355,7 +352,7 @@
 |          | 푼                                                           | 어려운                                                       |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 해시     | [L1]완주하지못한선수(ZIP,SET)<br/>[L2]전화번호목록<br/>[L2]위장(dic or 여러방법)<br/> | [L3]베스트앨범                                               |
-| 힙       | [L2]더맵게<br/>                                              | [L3]이중우선순위큐<br/>[L3el디크스컨트롤러(못품)             |
+| 힙       | [L2]더맵게<br/>                                              | [L3]이중우선순위큐<br/>[L3]디크스컨트롤러(못품)              |
 | 스택큐   | [L2]다리를지나는트럭<br/>[L2]주식가격<br/>[L2]기능개발(문자열처리!)<br/> | [L2]프린터                                                   |
 | 정렬     | [L1]k번째수<br/>[L2]가장큰수<br/>[L2]H-인데스(두잇)          |                                                              |
 | 완전탐색 | [L1]모의고사<br/>[L2]카펫                                    | [L2]소수찾기(itertools익히기)                                |
@@ -381,5 +378,7 @@
 | 구현     |                                                              | [3190]뱀                                       |
 | dfsbfs   | [1260]dfsbfs<br>[2178]미로탈출<br>[2667]단지번호붙이기<br>[1012]유기농배추<br>[11724]연결요소의개수<br>[6603]로또<br>[7576]토마토<br>[7562]나이트의이동<br>[1303]전투 | [1697]숨바꼭질(유형익히기)<br/>[16234]인구이동 |
 | 최단경로 | [11404]플로이드                                              |                                                |
-| 스택큐   | [2504]괄호의값                                               |                                                |
+| 스택큐   |                                                              | [2504]괄호의값(내거말고다른풀이도보기)         |
 
+</div>
+</details>    
