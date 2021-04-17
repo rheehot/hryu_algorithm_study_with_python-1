@@ -4,32 +4,49 @@
 
 
 
+<details>
+<summary> 문제 코드와 풀이 </summary>
+<div markdown="1">
+  
 
 
 <details>
-<summary>문제 코드와 해설</summary>
+<summary>Backjoon Online Judge</summary>
 <div markdown="1">
 
-
+dff
+</div>
+</details>   
 
 <details>
-<summary>hryu_algorithm_study_with_python로 문제 해결</summary>
+<summary>Programmers</summary>
 <div markdown="1">
 
-
-
-
+dfg
+</div>
+</details>   
 
 <details>
-<summary>hryu_algorithm_study_with_python로 문제 해결</summary>
+<summary>ETC</summary>
 <div markdown="1">
----
 
+GG
+</div>
+</details>   
+
+</div>
+</details>   
+
+<details>
+<summary> Daily solving History </summary>
+<div markdown="1">
+
+### 풀것들
 1. [solved.ac](https://solved.ac/problems/level/11)
 2. [삼성 sw 역량 테스트 기출 문제](https://www.acmicpc.net/workbook/view/1152) 
 3. [프로그래머스](https://programmers.co.kr/learn/challenges?tab=all_challenges)
 
-
+---
 
 ## P2&P3
 
@@ -90,7 +107,6 @@
 <div markdown="1">
 
 
-
 ## 0310
 
 - 정렬
@@ -115,13 +131,13 @@
 - 이진탐색
   - part2
     -  예제
-    - 부품찾기
-    - 떡볶이만들기
+    -  부품찾기
+    -  떡볶이만들기
 - dp
   - part2
     - 예제
     - 1로만들기
-    
+
 ## 0315
 
 - dp
@@ -166,7 +182,7 @@
   - part3
     - 문자열압축
     - 럭키스트레이트
-  
+
 - dfs_bfs
 
   - part2
@@ -178,97 +194,99 @@
     - 예제_bfs (로직을 외우자)
     - 음료수얼려먹기
     - 미로탈출
-  
+
 ## 0322
+
 - dfs_bfs
-    - part3
-        - 연구소
-    
+  - part3
+    - 연구소
+
 ## 0323
+
 - dfs_bfs   => bfsdfs 구현 부분 적응 잘 안됨 => 문제 마니 풀어보기 + 연습 필요
-    - part3
-        - 연산자끼워넣기
-        - 특정거리의도시찾기
+  - part3
+    - 연산자끼워넣기
+    - 특정거리의도시찾기
 - 코드업
-    - 파이썬기초100
-      - 6000 ~ 6008 입출력 해결
+  - 파이썬기초100
+    - 6000 ~ 6008 입출력 해결
 - 프로그래머스
-    - 해시
-      - 완주하지못한선수(L1)
+  - 해시
+    - 완주하지못한선수(L1)
 
 ## 0324
 
 - 코드업
-    - 파이썬기초100
-      - 6009 ~ 6016 
+  - 파이썬기초100
+    - 6009 ~ 6016 
 - dfs_bfs
-    - part3
-      - 감시피하기(푸는중)
+  - part3
+    - 감시피하기(푸는중)
 - 프로그래머스
-    - 해시
-        - 완주하지못한선수
-        - 전화번호목록
-        - 위장
-        - 베스트앨범(푸는중)
+  - 해시
+    - 완주하지못한선수
+    - 전화번호목록
+    - 위장
+    - 베스트앨범(푸는중)
 
 
 
 ## 0325
 
 - 코드업
-    - 파이썬기초100
-        - 6017 ~ 6024
+  - 파이썬기초100
+    - 6017 ~ 6024
 - 프로그래머스
-    - 해시
-        - 베스트앨범
+  - 해시
+    - 베스트앨범
 
 ## 0326
 
 - 프로그래머스
-    - 힙
-        - 더맵게
-        - 디스크컨트롤러 (푸는중)
-        - 이중우선순위큐
-    - 스택큐
-        - 기능개발
-        - 주식가격
-        - 다리지나는트럭
-    
-## 0327
-
-- 프로그래머스
-    - 스택큐
-        - 프린터
-    - 정렬
-        - k번째수
-        - 가장큰수
-        - H-INDEX (푸는중)
-    - 완전탐색
-        - 모의고사
+  - 힙
+    - 더맵게
+    - 디스크컨트롤러 (푸는중)
+    - 이중우선순위큐
+  - 스택큐
+    - 기능개발
+    - 주식가격
+    - 다리지나는트럭
 
 ## 0327
 
 - 프로그래머스
-    - 완전탐색
-        - 소수찾기 (다시, itertools 순열 조합 익히자)
+  - 스택큐
+    - 프린터
+  - 정렬
+    - k번째수
+    - 가장큰수
+    - H-INDEX (푸는중)
+  - 완전탐색
+    - 모의고사
 
-        - 카펫
+## 0327
+
+- 프로그래머스
+  - 완전탐색
+    - 소수찾기 (다시, itertools 순열 조합 익히자)
+
+    - 카펫
 
 ## 0330
 
 - 코드업
-    - 파이썬기초100
-        - 6025 ~ 6031
+  - 파이썬기초100
+    - 6025 ~ 6031
 
 ## 0331
 
 - 프로그래머스
-    - 그리디
-        - 체육복
-        - 조이스틱(미해결)
-        - 큰수만들기
-        - 구명보트
-        - 단속카메라(거의해결 풀이2개마무리)
+  - 그리디
+    - 체육복
+    - 조이스틱(미해결)
+    - 큰수만들기
+    - 구명보트
+    - 단속카메라(거의해결 풀이2개마무리)
 
 ## 0401
 
@@ -281,24 +299,27 @@
     - 정수삼각형 
 
 ## 0402
+
 - 이코테
-    - 최단경로
-      - 다익스트라 .. ㅋㅋ 오늘은 고등래퍼나 보자
-    
+  - 최단경로
+    - 다익스트라 .. ㅋㅋ 오늘은 고등래퍼나 보자
+
 ## 0405
 
 - 이코테
-    - dfsbfs
-        - 경쟁적전염(백준 18405)
-        - 괄호변환(프로 카카오블라인드2020)
+  - dfsbfs
+    - 경쟁적전염(백준 18405)
+    - 괄호변환(프로 카카오블라인드2020)
+
 ## 0406
+
 - 이코테
-    - dfsbfs
-        - 블록 이동하기 (2020 KAKAO BLIND RECRUITMENT) 
-        - 인구이동(백준 16234) - 미해결
+  - dfsbfs
+    - 블록 이동하기 (2020 KAKAO BLIND RECRUITMENT) 
+    - 인구이동(백준 16234) - 미해결
 - 프로그래머스
-    - dfsbfs
-      - 타켓넘버(완탐)
+  - dfsbfs
+    - 타켓넘버(완탐)
 
 ## 0407
 
@@ -393,34 +414,9 @@
   - 구현
     - 인구이동(까먹구있었다구)
 
-
-
 </div>
 </details>   
 
-
-
-<details>
-<summary>문제 코드와 해설</summary>
-<div markdown="1">
-
-
-
-<details>
-<summary>Backjoon Online Judge</summary>
-<div markdown="1">
-
-dff
-
-<details>
-<summary>Programmers</summary>
-<div markdown="1">
-
-dfg
-
-<details>
-<summary>ETC</summary>
-<div markdown="1">
-
-GG
+</div>
+</details>   
 
