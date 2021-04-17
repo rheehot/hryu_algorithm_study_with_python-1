@@ -404,5 +404,3 @@ dfg
 
 GG
 
-</div>
-</details>    
