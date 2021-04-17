@@ -40,12 +40,6 @@ GG
 <details>
 <summary> Daily solving History </summary>
 <div markdown="1">
-
-### 풀것들
-1. [solved.ac](https://solved.ac/problems/level/11)
-2. [삼성 sw 역량 테스트 기출 문제](https://www.acmicpc.net/workbook/view/1152) 
-3. [프로그래머스](https://programmers.co.kr/learn/challenges?tab=all_challenges)
-
 ---
 
 ## P2&P3
