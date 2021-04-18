@@ -5,32 +5,75 @@
 
 
 <details>
-<summary> 문제 코드와 풀이 </summary>
+<summary> 문제 풀이 바로가기 </summary>
 <div markdown="1">
+
   
 
 
 <details>
 <summary>Backjoon Online Judge</summary>
 <div markdown="1">
+### DFS&BFS
 
-dff
+| 번호  | 문제           | 풀이                                                         | 레벨 |
+| ----- | -------------- | ------------------------------------------------------------ | ---- |
+| 18405 | 경쟁적전염     | [풀이](https://velog.io/@redcarrot01/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%ED%92%80%EC%9D%B4-%EB%B0%B1%EC%A4%80-18405-%EA%B2%BD%EC%9F%81%EC%A0%81%EC%A0%84%EC%97%BCBFS) | S1   |
+| 1260  | DFS와BFS       | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-1260-DFS%EC%99%80-BFSdfsbfs) | S2   |
+| 2178  | 미로탐색       | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-2178-%EB%AF%B8%EB%A1%9C%ED%83%90%EC%83%89dfsbfs) | S1   |
+| 1697  | 숨바꼭질       | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-1697-%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88dfsbfs) | S1   |
+| 2667  | 단지번호붙이기 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-2667-%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0dfsbfs) | S1   |
+| 1012  | 유기농배추     | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-1012-%EC%9C%A0%EA%B8%B0%EB%86%8D%EB%B0%B0%EC%B6%94dfsbfs) | S2   |
+| 11724 | 연결요소의개수 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-11724-%EC%97%B0%EA%B2%B0%EC%9A%94%EC%86%8C%EC%9D%98%EA%B0%9C%EC%88%98dfsbfs) | S2   |
+| 6603  | 로또           | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-6603-%EB%A1%9C%EB%98%90dfsbfs) | S2   |
+| 7576  | 토마토         | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-7576-%ED%86%A0%EB%A7%88%ED%86%A0dfsbfs) | S1   |
+| 7562  | 나이트의이동   | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-7562-%EB%82%98%EC%9D%B4%ED%8A%B8%EC%9D%98%EC%9D%B4%EB%8F%99dfsbfs) | S2   |
+| 1303  | 전투           | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-1303-%EC%A0%84%ED%88%ACdfsbfs) | S1   |
+
+### 구현
+
+| 번호 | 문제 | 풀이                                                         | 레벨 |
+| ---- | ---- | ------------------------------------------------------------ | ---- |
+| 3190 | 뱀   | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-3190-%EB%B1%80%EA%B5%AC%ED%98%84) | G5   |
+
+
+
+### 최단경로
+
+| 번호 | 문제 | 풀이                                                         | 레벨 |
+| ---- | ---- | ------------------------------------------------------------ | ---- |
+| 1303 | 전투 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-1303-%EC%A0%84%ED%88%ACdfsbfs) | S1   |
+
 </div>
 </details>   
 
 <details>
 <summary>Programmers</summary>
 <div markdown="1">
+### DFS&BFS
 
-dfg
+| 문제         | 풀이                                                         | 레벨 |
+| ------------ | ------------------------------------------------------------ | ---- |
+| 괄호변환     | [풀이](https://velog.io/@redcarrot01/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%ED%92%80%EC%9D%B4-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EA%B4%84%ED%98%B8%EB%B3%80%ED%99%98-2020-KAKAO-BLIND-RECRUITMENT) | L2   |
+| 타겟넘버     | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%ED%83%80%EC%BC%93%EB%84%98%EB%B2%84dfsbfs-Level2) | L2   |
+| 블록이동하기 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A42020-KAKAO-BLIND-RECRUITMENT-%EB%B8%94%EB%A1%9D%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0BFS-Level3) | L3   |
+| 네트워크     | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%ACdfsbfs-Level3) | L3   |
+| 단어변환     | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%8B%A8%EC%96%B4%EB%B3%80%ED%99%98dfsbfs-Level3) | L3   |
+| 여행경로     | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9Cdfsbfs-Level3) | L3   |
+
 </div>
 </details>   
 
 <details>
 <summary>ETC</summary>
 <div markdown="1">
+### 최단경로
 
-GG
+| 문제       | 풀이                                                         |
+| ---------- | ------------------------------------------------------------ |
+| 정확한순위 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EC%A0%95%ED%99%95%ED%95%9C%EC%88%9C%EC%9C%84%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C) |
+| 화상탐사   | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%99%94%EC%83%81%ED%83%90%EC%82%AC%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C) |
+
 </div>
 </details>   
 
@@ -40,13 +83,14 @@ GG
 <details>
 <summary> Daily solving History </summary>
 <div markdown="1">
----
+
+
 
 ## P2&P3
 
-못푼 : 인구이동 
-
 안푼 : 구현-_자물쇠와열쇠 치킨배달 외벽점검 | 이진-정렬된, 고정점, 공유기, 가사검색 | dp-못생긴수,편집거리 | 그래-all | 아기상어 청소년상어 어른상어 | 기타알고
+
+틀린 : 감시피하기(왜아직도안했지??)
 
 |          | 푼                                                           | 어려운                                                       |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -85,14 +129,14 @@ GG
 
 ## 백준
 
-틀린 : 인구이동, 감시피하기
 
-|          | 푼                                                           | 어려운                                         |
-| -------- | ------------------------------------------------------------ | ---------------------------------------------- |
-| 구현     |                                                              | [3190]뱀                                       |
-| dfsbfs   | [1260]dfsbfs<br>[2178]미로탈출<br>[2667]단지번호붙이기<br>[1012]유기농배추<br>[11724]연결요소의개수<br>[6603]로또<br>[7576]토마토<br>[7562]나이트의이동<br>[1303]전투 | [1697]숨바꼭질(유형익히기)<br/>[16234]인구이동 |
-| 최단경로 | [11404]플로이드                                              |                                                |
-| 스택큐   |                                                              | [2504]괄호의값(내거말고다른풀이도보기)         |
+
+|          | 푼                                                           | 어려운                                                       |
+| -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 구현     |                                                              | [3190]뱀                                                     |
+| dfsbfs   | [1260]dfsbfs<br>[2178]미로탈출<br>[2667]단지번호붙이기<br>[1012]유기농배추<br>[11724]연결요소의개수<br>[6603]로또<br>[7576]토마토<br>[7562]나이트의이동<br>[1303]전투 | [1697]숨바꼭질(유형익히기)<br/>[16234]인구이동<br>[12851]숨바꼭질2<br>[13549]숨바꼭질3 |
+| 최단경로 | [11404]플로이드                                              |                                                              |
+| 스택큐   |                                                              | [2504]괄호의값(내거말고다른풀이도보기)                       |
 
 
 
@@ -407,6 +451,14 @@ GG
 - 이코테
   - 구현
     - 인구이동(까먹구있었다구)
+
+## 0418
+
+- 백준
+  - DFSBFS
+    - 숨바꼭질2
+    - 숨바꼭질3
+    - 숨바꼭질4 (푸는중), 바이러스(풀기)
 
 </div>
 </details>   
