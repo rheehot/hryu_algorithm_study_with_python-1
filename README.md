@@ -8,12 +8,15 @@
 <summary> 문제 풀이 바로가기 </summary>
 <div markdown="1">
 
-  
+
 
 
 <details>
 <summary>Backjoon Online Judge</summary>
 <div markdown="1">
+
+
+
 ### DFS&BFS
 
 | 번호  | 문제           | 풀이                                                         | 레벨 |
@@ -29,6 +32,8 @@
 | 7576  | 토마토         | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-7576-%ED%86%A0%EB%A7%88%ED%86%A0dfsbfs) | S1   |
 | 7562  | 나이트의이동   | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-7562-%EB%82%98%EC%9D%B4%ED%8A%B8%EC%9D%98%EC%9D%B4%EB%8F%99dfsbfs) | S2   |
 | 1303  | 전투           | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-1303-%EC%A0%84%ED%88%ACdfsbfs) | S1   |
+
+
 
 ### 구현
 
@@ -52,6 +57,9 @@
 <div markdown="1">
 ### DFS&BFS
 
+
+### DFS&BFS
+
 | 문제         | 풀이                                                         | 레벨 |
 | ------------ | ------------------------------------------------------------ | ---- |
 | 괄호변환     | [풀이](https://velog.io/@redcarrot01/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%ED%92%80%EC%9D%B4-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EA%B4%84%ED%98%B8%EB%B3%80%ED%99%98-2020-KAKAO-BLIND-RECRUITMENT) | L2   |
@@ -61,18 +69,25 @@
 | 단어변환     | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%8B%A8%EC%96%B4%EB%B3%80%ED%99%98dfsbfs-Level3) | L3   |
 | 여행경로     | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9Cdfsbfs-Level3) | L3   |
 
+
+
 </div>
 </details>   
 
 <details>
 <summary>ETC</summary>
 <div markdown="1">
-### 최단경로
+
+
+
+### 최단 경로
 
 | 문제       | 풀이                                                         |
 | ---------- | ------------------------------------------------------------ |
 | 정확한순위 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EC%A0%95%ED%99%95%ED%95%9C%EC%88%9C%EC%9C%84%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C) |
 | 화상탐사   | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%ED%99%94%EC%83%81%ED%83%90%EC%82%AC%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C) |
+
+
 
 </div>
 </details>   
