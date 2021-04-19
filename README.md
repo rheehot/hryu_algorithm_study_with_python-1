@@ -32,6 +32,11 @@
 | 7576  | 토마토         | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-7576-%ED%86%A0%EB%A7%88%ED%86%A0dfsbfs) | S1   |
 | 7562  | 나이트의이동   | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-7562-%EB%82%98%EC%9D%B4%ED%8A%B8%EC%9D%98%EC%9D%B4%EB%8F%99dfsbfs) | S2   |
 | 1303  | 전투           | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-1303-%EC%A0%84%ED%88%ACdfsbfs) | S1   |
+| 16234 | 인구이동       | 풀이                                                         | G5   |
+| 12851 | 숨바꼭질2      | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-12851-%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%882dfsbfs) | G5   |
+| 13549 | 숨바꼭질3      | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-13549-%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%883dfsbfs) | G5   |
+| 13913 | 숨바꼭질4      | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-13913-%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%884dfsbfs) | G5   |
+| 2606  | 바이러스       | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-2606-%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4-%EA%B5%AC%ED%98%84) | S3   |
 
 
 
@@ -40,6 +45,7 @@
 | 번호 | 문제 | 풀이                                                         | 레벨 |
 | ---- | ---- | ------------------------------------------------------------ | ---- |
 | 3190 | 뱀   | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-3190-%EB%B1%80%EA%B5%AC%ED%98%84) | G5   |
+|      |      |                                                              |      |
 
 
 
@@ -48,6 +54,19 @@
 | 번호 | 문제 | 풀이                                                         | 레벨 |
 | ---- | ---- | ------------------------------------------------------------ | ---- |
 | 1303 | 전투 | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-1303-%EC%A0%84%ED%88%ACdfsbfs) | S1   |
+
+
+
+### 스택큐
+
+| 번호 | 문제     | 풀이 | 레벨 |
+| ---- | -------- | ---- | ---- |
+| 2504 | 괄호의값 | 풀이 | S2   |
+|      |          |      |      |
+
+
+
+
 
 </div>
 </details>   
@@ -473,7 +492,13 @@
   - DFSBFS
     - 숨바꼭질2
     - 숨바꼭질3
-    - 숨바꼭질4 (푸는중), 바이러스(풀기)
+
+## 0419
+
+- 백준
+  - DFSBFS
+    - 숨바꼭질4
+    - 바이러스
 
 </div>
 </details>   
