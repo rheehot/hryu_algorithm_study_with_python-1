@@ -40,9 +40,9 @@
 | 1743  | 음식물피하기   | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-1743-%EC%9D%8C%EC%8B%9D%EB%AC%BC%ED%94%BC%ED%95%98%EA%B8%B0dfsbfs) | S1   |
 | 16935 | A-B            | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-16953-A-Bdfsbfs) | S2   |
 | 2504  | 연산자끼워넣기 | 풀이                                                         | S1   |
-| 14226 | 이모티콘       | 풀이                                                         | G5   |
-| 17086 | 아기상어2      | 풀이                                                         | G5   |
-| 16930 | 달리기         | 풀이                                                         | P2   |
+| 14226 | 이모티콘       | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-14226-%EC%9D%B4%EB%AA%A8%ED%8B%B0%EC%BD%98dfsbfs) | G5   |
+| 17086 | 아기상어2      | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-17086-%EC%95%84%EA%B8%B0%EC%83%81%EC%96%B42dfsbfs) | G5   |
+| 16930 | 달리기         | [풀이](https://velog.io/@redcarrot01/ProblemSolving-%EB%B0%B1%EC%A4%80-16930-%EB%8B%AC%EB%A6%AC%EA%B8%B0dfsbfs) | P2   |
 
 
 
@@ -177,11 +177,11 @@ S
 
 ### 2020 KAKAO INTERNSHIP
 
-| 문제         | 풀이 | 레벨 |
-| ------------ | ---- | ---- |
-| 키패드누르기 | 풀이 | L1   |
-| 수식최대화   | 풀이 | L2   |
-| 보석쇼핑     | 풀이 | L3   |
+| 문제         | 풀이                                                         | 레벨 |
+| ------------ | ------------------------------------------------------------ | ---- |
+| 키패드누르기 | [풀이](https://velog.io/@redcarrot01/KakaoSolving-2020-kakao-Internship-%ED%82%A4%ED%8C%A8%EB%93%9C%EB%88%84%EB%A5%B4%EA%B8%B0Level1) | L1   |
+| 수식최대화   | [풀이](https://velog.io/@redcarrot01/KakaoSolving-2020-kakao-Internship-%EC%88%98%EC%8B%9D%EC%B5%9C%EB%8C%80%ED%99%94Level2) | L2   |
+| 보석쇼핑     | [풀이](https://velog.io/@redcarrot01/KakaoSolving-2020-kakao-Internship-%EB%B3%B4%EC%84%9D%EC%87%BC%ED%95%91Level3) | L3   |
 
 
 
